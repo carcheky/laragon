@@ -1,0 +1,7 @@
+data/*
+tmp/*
+www/*
+!www/index.php
+
+*.log
+etc/apache2/sites-enabled/auto.*
