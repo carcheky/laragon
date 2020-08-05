@@ -12,3 +12,6 @@ bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid
 
 etc/apps/phpMyAdmin
 usr/laragon.ini
+bin/cmder/config/.history
+bin/mysql/mysql*/data/*.pid
+bin/mysql/mysql*/data/ib_log*
