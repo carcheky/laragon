@@ -7,3 +7,8 @@ www/*
 etc/apache2/sites-enabled/auto.*
 installer/*
 generate-laragon-custom-server.bat
+
+bin/apache/httpd-2.4.35-win64-VC15/logs/httpd.pid
+
+etc/apps/phpMyAdmin
+usr/laragon.ini
