@@ -5,3 +5,5 @@ www/*
 
 *.log
 etc/apache2/sites-enabled/auto.*
+installer/*
+generate-laragon-custom-server.bat
