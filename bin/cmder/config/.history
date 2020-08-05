@@ -1,1 +1,114 @@
-php -V
+composer
+exit
+exit
+composer
+ls
+ll
+composer create-project carcheky/druparcheky test.local
+rm -fr test.local\
+composer create-project carcheky/druparcheky test
+composer global require prestisimo
+composer global require hirak/prestissimo
+composer global require drush/drush-launcher
+cd ..
+rm -fr testa\
+rm -fr te
+rm -fr test && composer create-project carcheky/druparcheky test
+cd test
+composer install
+cd test\
+drush
+which drush
+exit
+composer create-project carcheky/druparcheky test
+composer global require prestisimo
+composer global require hirak/prestissimo
+rm -fr testa\
+rm -fr te
+rm -fr test && composer create-project carcheky/druparcheky test
+cd test
+cd test\
+drush
+which drush
+exit
+composer global require drush/drush-launcher
+git clone git@gitlab.com:carcheky/druparcheky.git druparcheky_theme
+git clone git@gitlab.com:carcheky/druparcheky.git druparcheky_profile
+cd druparcheky && composer install && cd .. && cd druparcheky_profile\ && composer install && cd .. && cd druparcheky_theme\ && composer install && cd ..
+rm -fr druparcheky_*
+ll
+ls
+lcd ..
+rm -fr druparcheky\
+git clone git@gitlab.com:carcheky/druparcheky.git
+cd druparcheky\
+composer install
+cd ..
+mkdir test2
+mkdir test2\web
+mkdir test3\web
+cd test\
+drush
+which drush
+exit
+composer global require drush/drush-launcher
+git clone git@gitlab.com:carcheky/druparcheky.git druparcheky_theme
+git clone git@gitlab.com:carcheky/druparcheky.git druparcheky_profile
+cd druparcheky && composer install && cd .. && cd druparcheky_profile\ && composer install && cd .. && cd druparcheky_theme\ && composer install && cd ..
+rm -fr druparcheky_*
+lcd ..
+rm -fr druparcheky\
+mkdir test2
+mkdir test2\web
+mkdir test3\web
+mkdir test/web
+mkdir test\web
+git clone git@gitlab.com:carcheky/druparcheky.git
+cd drupar
+cd druparcheky\
+yes
+drush si -y
+drush si
+cd ..\testdruparcheky\
+cd test2\
+composer install
+ls -la
+cd ..
+rm -fr test2\
+ll
+ls
+ll
+ls
+exit
+drush si -y
+cd ..\testdruparcheky\
+cd test2\
+ls -la
+rm -fr test2\
+ll
+ls
+cd druparcheky\
+cd ..\test1\
+mkdir test3
+ll
+cd ..
+ls
+mkdir test2
+mkdir test3/web
+mkdir test3\web
+cp -fr test1 test4
+cdn test4
+cd test4
+cd ..\test1
+composer install
+drush si
+cd ..\..\
+winrar
+winrar.exe
+exit
+exit
+cd ..\..\
+ll
+git clone git@github.com:carcheky/laragon.git
+git clone https://github.com/carcheky/laragon.git
+code laragon
